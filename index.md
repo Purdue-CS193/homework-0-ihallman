@@ -1,6 +1,7 @@
 # Isaac's First CS193 Homework
 ## Welcome to GitHub Pages
 
+### Favorite Things About CS193
 - My friends in class
 - Awesome instructors
 - Useful class content
